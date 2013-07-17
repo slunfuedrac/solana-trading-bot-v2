@@ -33,8 +33,10 @@
     "ts-node": "^10.9.2",
     "typescript": "^5.3.3"
   },
-  "ts-node": { 
+  "ts-node": {
     "project": "tsconfig.json"
-  }
+  },
+  "history": [
+    "2013-07-17T21:56:03 \u2013 cJ49PMeSEPOAEOyn9qYM"
+  ]
 }
-
