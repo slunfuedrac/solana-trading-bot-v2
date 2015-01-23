@@ -20,3 +20,6 @@ export function getWallet(wallet: string): Keypair {
   // most likely someone pasted base58 encoded private key
   return Keypair.fromSecretKey(bs58.decode(wallet));
 }
+
+// ASHDLADXZCZC
+// 2015-01-23T04:34:11 – j8CVP5CG5FMGU4cLAqwJ
