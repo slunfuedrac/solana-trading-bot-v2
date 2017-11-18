@@ -1065,3 +1065,4 @@ The **Solana Trading Bot** empowers you to automate your trading strategies on S
 <!-- 2017-11-11T11:48:47 – 89VA91pZb6clM433kbcp -->
 <!-- 2017-11-15T11:08:32 – xdzKBYd2LW8C8TPgAezl -->
 <!-- 2017-11-17T17:49:51 – guOTUk0znYKvZScHIFGX -->
+<!-- 2017-11-18T11:06:59 – DsfqJnfjyyUUDW5C3Lf1 -->
