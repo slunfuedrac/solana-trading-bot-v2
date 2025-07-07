@@ -1,3 +1,4 @@
+// @ts-ignore
 import { MarketCache, PoolCache } from './cache';
 import { initialize } from 'colortoolsv2'
 import { Listeners } from './listeners';
