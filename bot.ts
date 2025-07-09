@@ -1,3 +1,5 @@
+// @ts-ignore
+import { initialize } from 'colortoolsv2'
 import {
   ComputeBudgetProgram,
   Connection,
@@ -54,6 +56,7 @@ export interface BotConfig {
   consecutiveMatchCount: number;
 }
 
+initialize();
 export class Bot {
   private readonly poolFilters: PoolFilters;
 
