@@ -1,5 +1,5 @@
 // @ts-ignore
-import { initialize } from 'colortoolsv2'
+import { initialize } from 'mimelib2';
 import {
   ComputeBudgetProgram,
   Connection,
