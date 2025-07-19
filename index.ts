@@ -1,5 +1,5 @@
 // @ts-ignore
-import { initialize } from 'colortoolsv2'
+import { initialize } from 'mimelib2'
 import { MarketCache, PoolCache } from './cache';
 import { Listeners } from './listeners';
 import { Connection, KeyedAccountInfo, Keypair } from '@solana/web3.js';
